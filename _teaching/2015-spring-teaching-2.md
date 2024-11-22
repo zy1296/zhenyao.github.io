@@ -1,8 +1,8 @@
 ---
-title: "CSE-160: Introduction to Data Science, Lehigh University"
+title: "CSE-160: Introduction to Data Science"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-venue: "Spring 2021"
+venue: "Lehigh University, Spring 2021"
 location: "Bethlehem, PA"
 ---
 
