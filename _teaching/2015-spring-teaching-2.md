@@ -1,5 +1,5 @@
 ---
-title: "CSE160: Introduction to Data Science"
+title: "CSE-160: Introduction to Data Science"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 venue: "Lehigh University, P.C. Rossing College of Engineering and Applied Science"
