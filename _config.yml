@@ -25,8 +25,7 @@ author:
   name             : "Zhen Yao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Lehigh University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bethlehem, PA"
   uri              : # URL
   email            : "zhy321@lehigh.edu" 
 
@@ -37,12 +36,12 @@ author:
 
   # Repositories and software development
 
-  github           : "academicpages"
+  github           : "zyaocoder"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
