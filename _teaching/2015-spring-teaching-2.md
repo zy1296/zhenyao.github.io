@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Lehigh University, P.C. Rossing College of Engineering and Applied Science"
-date: Spring 2021
+date: 2021-02-01
 location: "Bethlehem, PA"
 ---
 
